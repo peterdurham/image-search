@@ -1,0 +1,20 @@
+.footer {
+  color: white;
+  background: rgb(58, 96, 110);
+}
+
+.footerContent {
+  margin: 0;
+  text-align: center;
+  max-width: 960;
+  padding: 1.45rem 1.0875rem;
+}
+
+.footerContent p {
+  margin: 0;
+}
+
+.footerContent #github-logo {
+  width: 60px;
+}
+
